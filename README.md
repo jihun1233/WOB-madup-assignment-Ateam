@@ -122,6 +122,8 @@ https://wanted-madup-6a.netlify.app/
 ![사이드바](https://user-images.githubusercontent.com/65527334/170376704-58629c5a-cd21-4193-8bfa-0f8789aca389.gif)
 
 ### 대시보드 페이지
+![dashboard_responsive](https://user-images.githubusercontent.com/56039591/171880263-d2cc15dd-f7fa-4999-963a-3703c9795fc9.gif)
+
 - datePicker를 통해 날짜 범위를 선택한다.
 - 선택된 날짜 범위에 따라 그래프들이 바뀐다.
 
